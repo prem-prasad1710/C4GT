@@ -1,5 +1,22 @@
 ## Our Community
-
+ <table>
+      <tr>
+        <td>Name</td>
+        <td>Prem Prasad</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/prem-prasad1710</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/prem-prasad1710/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Maharaja Surajmal Institute</td>
+      </tr>
+    </table>
 <table>
   <tr>
     <td>Name</td>
